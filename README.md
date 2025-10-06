@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 - Full Stack Developer with experience in **React.js, Next.js, Node.js, NestJS, Express.js**  
-- Skilled with **AWS Cloud (EC2, S3, RDS, Amplify, IAM, Load Balancer)** & **Docker**  
+- Skilled with **AWS Cloud (EC2, S3, RDS, Amplify, IAM)** 
 - Passionate about **UI/UX design** with Figma, Shadcn, Tailwind, and MUI  
 - Strong in **REST APIs, GraphQL, Authentication (JWT, NextAuth, Auth0, Firebase)**  
 - Enthusiastic about **Agile development, CI/CD, Git & GitHub**  
